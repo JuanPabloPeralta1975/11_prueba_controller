@@ -1,0 +1,6 @@
+se fracciona el código
+en app solo los recursos y prefijos
+en routes el listado y diccionario de rutas
+en controller la funcionalidad y las consecuencias al ingresar a una rutas
+
+ingreso una url, se fija que es lo que pido en app, después pasa por routes y luego redirige a controller
